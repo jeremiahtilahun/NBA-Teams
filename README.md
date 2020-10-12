@@ -23,8 +23,8 @@ NBA Bubble Finals
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://images.daznservices.com/di/library/sporting_news/8/88/nba-bubble-072820-getty-ftr_171qre7cfhsui1b802zc3k2pks.jpg?t=-1690856413&quality=100&w=1280&h=720](src)
-```
+[Link](url) and ![A graphic of the new NBA Bubble](https://images.daznservices.com/di/library/sporting_news/8/88/nba-bubble-072820-getty-ftr_171qre7cfhsui1b802zc3k2pks.jpg?t=-1690856413&quality=100&w=1280&h=720)(src) 
+![A picture of the meals given to NBA players in the Bubble](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/food-1594236886.jpeg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
