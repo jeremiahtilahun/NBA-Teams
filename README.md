@@ -1,32 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Valorant
+Valorant is a new free-to-play multiplayer first person shooter that has similar movement and shooting mechanics to CSGO while incorporating an ability and ultimate system similar to Overwatch. It was released as a beta on April 7 and the full version was released on June 2. The current game modes are: Unrated for a slow paced, unranked setting, Competitive, which requires more skill and synergy with your team, Spike Rush, for short, unskilled games, and Deathmatch, to improve your aim. The current competitive ranks are Iron, Bronze, Silver, Gold, Platinum, Diamond, Immortal, and Radiant.
 
-You can use the [editor on GitHub](https://github.com/jeremiahtilahun/NBA-Teams/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Valorant Characters and Abilities
+![A graphic of the characters](https://news.codashop.com/ph/wp-content/uploads/sites/5/2020/09/VALORANT-Agents.jpg)
 
-### Markdown
+There are currently 12 characters, each with their own special abilities that you can purchase to utilize during the rounds. Each character has an ultimate that is activated when enough kills/orbs are collected. The character that I main is Breach. If I have enough money, I can buy 3 flashes and 1 aftershock, and 1 fault line is automatically given to me.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## The New Act
+![A picture of the new map](https://specials-images.forbesimg.com/imageserve/5f8082e3fdf2b3fab60a2999/960x0.jpg?fit=scale)
 
-```markdown
-Syntax highlighted code block
+Act 3 will be releasing on October 13, bringing new battlepass that will include gun and knife skins, sprays, and gun charms. Also, a new map called "Icebox" will be released. A new character named "Skye" will be released on October 27.
 
-NBA Bubble Season
-NBA Bubble Playoffs
-NBA Bubble Finals
+The official website is [Valorant](https://playvalorant.com/en-us/). Here you can find more information and download the game to play for yourself!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![A graphic of the new NBA Bubble](https://images.daznservices.com/di/library/sporting_news/8/88/nba-bubble-072820-getty-ftr_171qre7cfhsui1b802zc3k2pks.jpg?t=-1690856413&quality=100&w=1280&h=720)(src) 
-![A picture of the meals given to NBA players in the Bubble](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/food-1594236886.jpeg)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
